@@ -1,0 +1,8 @@
+{
+  "mm_observed_delta_pp": 4.749999999999999,
+  "mm_related_predicted_sum": 54.0,
+  "access_observed_delta_2021_2024_pp": 3.0,
+  "access_impact_links_sum_pp": 14.0,
+  "interpretation": "Registered mobile-money users grew much faster than survey-reported ownership/usage. Impact magnitudes on registered users should not be naively applied 1:1 to Findex Access rates.",
+  "refined_access_scale": 0.21428571428571427
+}
