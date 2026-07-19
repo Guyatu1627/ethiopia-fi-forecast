@@ -1,0 +1,34 @@
+field,code,description,applies_to
+record_type,observation,Measured values from surveys/reports,All
+record_type,event,Policies product launches milestones,All
+record_type,impact_link,Modeled event-to-indicator relationships,Impact sheet
+record_type,target,Official policy goals,All
+pillar,ACCESS,Can people reach financial services,observation/target/impact_link
+pillar,USAGE,Are people using financial services,observation/target/impact_link
+pillar,AFFORDABILITY,Can people afford services,observation/target/impact_link
+pillar,GENDER,Gender gaps in inclusion,observation/target/impact_link
+category,product_launch,New product or service,event
+category,market_entry,New competitor entry,event
+category,policy,Government strategy,event
+category,regulation,Regulatory directive,event
+category,infrastructure,System deployment,event
+category,partnership,Integration or partnership,event
+category,milestone,Achievement milestone,event
+category,pricing,Price change,event
+category,economic,Macro shock,event
+indicator_code,ACC_OWNERSHIP,Account ownership rate (Findex Access),observation
+indicator_code,USG_DIGITAL_PAYMENT,Made or received digital payment (Findex Usage),observation
+indicator_code,ACC_MM_ACCOUNT,Mobile money account ownership rate,observation
+confidence,high,Strong primary source,All
+confidence,medium,Credible secondary or compiled source,All
+confidence,low,Indicative or weakly documented,All
+impact_direction,increase,Positive effect on indicator,impact_link
+impact_direction,decrease,Negative effect on indicator,impact_link
+impact_magnitude,high,Large expected effect,impact_link
+impact_magnitude,medium,Moderate expected effect,impact_link
+impact_magnitude,low,Small expected effect,impact_link
+evidence_basis,empirical,Based on local observed change,impact_link
+evidence_basis,comparable_country,Based on similar-country evidence,impact_link
+evidence_basis,literature,Based on published studies,impact_link
+evidence_basis,policy,Based on policy design/intent,impact_link
+evidence_basis,media,Based on news reporting,impact_link
