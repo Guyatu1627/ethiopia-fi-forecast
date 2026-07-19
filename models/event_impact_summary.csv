@@ -1,0 +1,20 @@
+event_id,event_name,event_date,pillar,related_indicator,impact_direction,impact_magnitude,impact_estimate,lag_months,evidence_basis,comparable_country,confidence
+EVT_0001,Telebirr Launch,2021-05-17,ACCESS,ACC_OWNERSHIP,increase,medium,4.0,12,literature,Kenya,medium
+EVT_0001,Telebirr Launch,2021-05-17,USAGE,USG_TELEBIRR_USERS,increase,high,54.0,3,empirical,,high
+EVT_0001,Telebirr Launch,2021-05-17,USAGE,USG_P2P_COUNT,increase,high,25.0,6,empirical,,medium
+EVT_0001,Telebirr Launch,2021-05-17,USAGE,USG_DIGITAL_PAYMENT,increase,medium,10.0,18,comparable_country,Kenya,medium
+EVT_0009,NFIS-II Strategy Launch,2021-09-01,ACCESS,ACC_OWNERSHIP,increase,low,3.0,36,policy,,low
+EVT_0011,Agent Banking / KYC Simplification Push,2022-03-01,ACCESS,ACC_OWNERSHIP,increase,low,2.0,12,policy,,low
+EVT_0002,Safaricom Ethiopia Commercial Launch,2022-08-01,ACCESS,ACC_4G_COV,increase,medium,15.0,12,empirical,,medium
+EVT_0002,Safaricom Ethiopia Commercial Launch,2022-08-01,AFFORDABILITY,AFF_DATA_INCOME,decrease,medium,-20.0,12,literature,Rwanda,medium
+EVT_0003,M-Pesa Ethiopia Launch,2023-08-01,USAGE,USG_MPESA_USERS,increase,high,10.0,3,empirical,,high
+EVT_0003,M-Pesa Ethiopia Launch,2023-08-01,USAGE,ACC_MM_ACCOUNT,increase,medium,4.0,6,empirical,,medium
+EVT_0003,M-Pesa Ethiopia Launch,2023-08-01,USAGE,USG_DIGITAL_PAYMENT,increase,medium,8.0,12,comparable_country,Kenya,medium
+EVT_0004,Fayda Digital ID Program Rollout,2024-01-01,ACCESS,ACC_OWNERSHIP,increase,medium,5.0,24,empirical,,medium
+EVT_0004,Fayda Digital ID Program Rollout,2024-01-01,GENDER,GEN_GAP_ACC,decrease,medium,-3.0,24,empirical,,medium
+EVT_0012,National QR / Merchant Acceptance Expansion,2024-06-01,USAGE,USG_DIGITAL_PAYMENT,increase,medium,4.0,6,empirical,,medium
+EVT_0005,Foreign Exchange Liberalization,2024-07-29,AFFORDABILITY,AFF_DATA_INCOME,increase,high,10.0,3,policy,,medium
+EVT_0007,M-Pesa EthSwitch Integration,2025-10-27,USAGE,USG_MPESA_ACTIVE,increase,medium,3.0,3,empirical,,medium
+EVT_0007,M-Pesa EthSwitch Integration,2025-10-27,USAGE,USG_P2P_COUNT,increase,medium,12.0,3,empirical,,medium
+EVT_0010,Safaricom Ethiopia Price Increase,2025-12-15,AFFORDABILITY,AFF_DATA_INCOME,increase,low,5.0,1,media,,low
+EVT_0008,EthioPay Instant Payment System Launch,2025-12-18,USAGE,USG_P2P_COUNT,increase,medium,8.0,6,empirical,,medium
